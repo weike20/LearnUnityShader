@@ -1,0 +1,101 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-2304
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2546 outsize=1156 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1692 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1692 outsize=315 kw= pd= ok=1
+Cmd: preprocess
+  insize=2534 outsize=1156 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1680 outsize=301 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1680 outsize=315 kw= pd= ok=1
+Cmd: preprocess
+  insize=2546 outsize=1156 ok=1
+Cmd: preprocess
+  insize=2534 outsize=1156 ok=1
+Cmd: preprocess
+  insize=2546 outsize=1156 ok=1
+Cmd: preprocess
+  insize=2757 outsize=1157 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1903 outsize=250 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1903 outsize=315 kw= pd= ok=1
+Cmd: preprocess
+  insize=2547 outsize=1156 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1693 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1693 outsize=315 kw= pd= ok=1
+Cmd: preprocess
+  insize=2535 outsize=1155 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1681 outsize=301 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1681 outsize=315 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1681 outsize=360 kw=FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1681 outsize=401 kw=FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=982 outsize=1025 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=982 outsize=891 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=982 outsize=3867 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1681 outsize=329 kw=FOG_LINEAR pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1681 outsize=401 kw=FOG_LINEAR pd= ok=1
+Cmd: preprocess
+  insize=2533 outsize=1156 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1679 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1679 outsize=315 kw= pd= ok=1
+Cmd: preprocess
+  insize=2547 outsize=1156 ok=1
+Cmd: preprocess
+  insize=3540 outsize=1158 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2686 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2686 outsize=315 kw= pd= ok=1
+Cmd: preprocess
+  insize=3542 outsize=1158 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2688 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2688 outsize=257 kw= pd= ok=1
+Cmd: preprocess
+  insize=3540 outsize=1158 ok=1
+Cmd: preprocess
+  insize=3644 outsize=1204 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2744 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2744 outsize=321 kw= pd= ok=1
+Cmd: preprocess
+  insize=3642 outsize=1204 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2742 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2742 outsize=359 kw= pd= ok=1
+Cmd: preprocess
+  insize=3667 outsize=1204 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2767 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2767 outsize=341 kw= pd= ok=1
+Cmd: preprocess
+  insize=3539 outsize=1158 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2685 outsize=266 kw= pd= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2685 outsize=315 kw= pd= ok=1
